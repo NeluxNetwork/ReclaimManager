@@ -1,0 +1,5 @@
+name: ReclaimManager
+version: '${project.version}'
+main: dev.selixe.ReclaimManager
+api-version: 1.19
+authors: [ Selixe ]

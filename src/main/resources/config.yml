@@ -1,0 +1,8 @@
+rank-system: LuckPerms
+reclaims:
+  owner:
+    commands:
+      - "give %player% Diamond 10"
+  admin:
+    commands:
+      - "give %player% diamond 5"
